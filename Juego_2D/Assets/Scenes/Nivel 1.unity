@@ -20402,7 +20402,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoNivel
-      value: 120
+      value: 210
       objectReference: {fileID: 0}
     - target: {fileID: 7894966752067230218, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: tiempoTermino.m_PersistentCalls.m_Calls.Array.data[1].m_Target
